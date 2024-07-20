@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section_one{
+  text-align: center;
+  margin: 80px auto;
+  width: 400;
+  padding: 30px;
+}
+.section_two{
+    padding: 0 5px;
+    margin-bottom: 15px;
+}
+input{
+    width: 40;
+    height: 30px;
+    padding:0 10px;
+    pointer-events: none;
+}
+#clear{
+    width: 30px
+}
+button{
+    width: 30px;
+}
